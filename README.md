@@ -1,3 +1,16 @@
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/51be9045-1a8a-4119-9100-da9a9da7b623" />
+<img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/b6db957d-6b6a-455d-918a-fc9c1d458a1d" />
+
+## 🔧 Spesifikasi Proyek
+
+- 🖥️ Framework: Laravel 10
+- 🗃️ Database: MySQL
+- 🌐 Bahasa: PHP, Blade, Livewire
+- 📁 Tools: Composer, Artisan CLI
+- 🔐 Fitur: Login multi-level (admin & pelanggan), CRUD, laporan tagihan, pembayaran
+
+
+
 📌 Catatan Penting untuk Menjalankan Proyek Ini (.env & Migrasi Database)
 
 Untuk menjalankan proyek ini di lokal, pastikan kamu mengikuti langkah-langkah berikut:
