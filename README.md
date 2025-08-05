@@ -17,6 +17,11 @@ ListrikPay adalah aplikasi berbasis Laravel untuk mengelola pembayaran listrik p
 📌 Catatan Penting untuk Menjalankan Proyek Ini (.env & Migrasi Database)
 
 Untuk menjalankan proyek ini di lokal, pastikan kamu mengikuti langkah-langkah berikut:
+jangan lupa jalankan diterminal atau vscode kamu dan pastikan path nya sudah berada di proyek kamu contoh PS C:\xampp2\htdocs\listrikapp> 
+baru menjalankan perintah dibawah :
+
+composer install
+npm install
 
 
 ---
