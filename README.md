@@ -70,6 +70,10 @@ php artisan migrate
 
 php artisan migrate --seed
 
+jangan lupa ketik dibawah ini untuk menjalankan di browser kamu
+
+php artisan serve
+
 
 ---
 
@@ -147,6 +151,9 @@ CREATE TABLE pembayaran (
   FOREIGN KEY (id_pelanggan) REFERENCES pelanggan(id_pelanggan),
   FOREIGN KEY (id_user) REFERENCES users(id_user)
 );
-Sterekarang kamu sudah siap menjalankan proyek:
 
-php artisan serve
+Sekarang kamu sudah siap menjalankan proyek:
+
+informasi kontak
+Email : zedzohir23@gmail.com
+instagram : @itsalter23
