@@ -1,3 +1,6 @@
+ListrikPay adalah aplikasi berbasis Laravel untuk mengelola pembayaran listrik pascabayar. Proyek ini dirancang dengan Livewire dan memiliki fitur pelanggan, penggunaan, tagihan, dan laporan pembayaran.
+
+
 <img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/51be9045-1a8a-4119-9100-da9a9da7b623" />
 <img width="1512" height="982" alt="Image" src="https://github.com/user-attachments/assets/b6db957d-6b6a-455d-918a-fc9c1d458a1d" />
 
