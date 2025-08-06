@@ -1,4 +1,4 @@
-# Intermediate
+# Level Intermediate
 ListrikPay adalah aplikasi berbasis Laravel untuk mengelola pembayaran listrik pascabayar. Proyek ini dirancang dengan Livewire dan memiliki fitur pelanggan, penggunaan, tagihan, dan laporan pembayaran.
 
 
@@ -20,9 +20,9 @@ ListrikPay adalah aplikasi berbasis Laravel untuk mengelola pembayaran listrik p
 Untuk menjalankan proyek ini di lokal, pastikan kamu mengikuti langkah-langkah berikut:
 jangan lupa jalankan diterminal atau vscode kamu dan pastikan path nya sudah berada di proyek kamu contoh PS C:\xampp2\htdocs\listrikapp> 
 baru menjalankan perintah dibawah :
-# ini pertama
+Lakukan ini pertama
 composer install
-# ini kedua
+kemudian dilanjutkan dengan ini 
 npm install
 
 
