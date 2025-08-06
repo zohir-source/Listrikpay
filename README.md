@@ -1,3 +1,4 @@
+# Intermediate
 ListrikPay adalah aplikasi berbasis Laravel untuk mengelola pembayaran listrik pascabayar. Proyek ini dirancang dengan Livewire dan memiliki fitur pelanggan, penggunaan, tagihan, dan laporan pembayaran.
 
 
